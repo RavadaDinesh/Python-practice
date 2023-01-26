@@ -1,4 +1,4 @@
-#  Gobal Variables 
+#  Global Variables 
 
 
 x = "Awesome"
@@ -8,3 +8,11 @@ def myfunc():
 
 
 myfunc()
+
+x = "Dinesh"
+
+def myfunc():
+    print("Good boy " + x)
+myfunc()
+
+print("Very Good boy " + x)
